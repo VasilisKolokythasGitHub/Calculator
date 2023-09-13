@@ -66,7 +66,7 @@
             // SevenBtn
             // 
             SevenBtn.Font = new Font("Segoe UI", 12F);
-            SevenBtn.Location = new Point(12, 72);
+            SevenBtn.Location = new Point(17, 79);
             SevenBtn.Name = "SevenBtn";
             SevenBtn.Size = new Size(88, 57);
             SevenBtn.TabIndex = 1;
@@ -77,7 +77,7 @@
             // EightBtn
             // 
             EightBtn.Font = new Font("Segoe UI", 12F);
-            EightBtn.Location = new Point(106, 72);
+            EightBtn.Location = new Point(111, 79);
             EightBtn.Name = "EightBtn";
             EightBtn.Size = new Size(88, 57);
             EightBtn.TabIndex = 2;
@@ -88,7 +88,7 @@
             // NineBtn
             // 
             NineBtn.Font = new Font("Segoe UI", 12F);
-            NineBtn.Location = new Point(200, 72);
+            NineBtn.Location = new Point(205, 79);
             NineBtn.Name = "NineBtn";
             NineBtn.Size = new Size(88, 57);
             NineBtn.TabIndex = 3;
@@ -99,7 +99,7 @@
             // FourBtn
             // 
             FourBtn.Font = new Font("Segoe UI", 12F);
-            FourBtn.Location = new Point(12, 135);
+            FourBtn.Location = new Point(17, 142);
             FourBtn.Name = "FourBtn";
             FourBtn.Size = new Size(88, 57);
             FourBtn.TabIndex = 4;
@@ -110,7 +110,7 @@
             // FiveBtn
             // 
             FiveBtn.Font = new Font("Segoe UI", 12F);
-            FiveBtn.Location = new Point(106, 135);
+            FiveBtn.Location = new Point(111, 142);
             FiveBtn.Name = "FiveBtn";
             FiveBtn.Size = new Size(88, 57);
             FiveBtn.TabIndex = 5;
@@ -121,7 +121,7 @@
             // SixBtn
             // 
             SixBtn.Font = new Font("Segoe UI", 12F);
-            SixBtn.Location = new Point(200, 135);
+            SixBtn.Location = new Point(205, 142);
             SixBtn.Name = "SixBtn";
             SixBtn.Size = new Size(88, 57);
             SixBtn.TabIndex = 6;
@@ -132,7 +132,7 @@
             // ThreeBtn
             // 
             ThreeBtn.Font = new Font("Segoe UI", 12F);
-            ThreeBtn.Location = new Point(200, 200);
+            ThreeBtn.Location = new Point(205, 207);
             ThreeBtn.Name = "ThreeBtn";
             ThreeBtn.Size = new Size(88, 57);
             ThreeBtn.TabIndex = 9;
@@ -143,7 +143,7 @@
             // TwoBtn
             // 
             TwoBtn.Font = new Font("Segoe UI", 12F);
-            TwoBtn.Location = new Point(106, 200);
+            TwoBtn.Location = new Point(111, 207);
             TwoBtn.Name = "TwoBtn";
             TwoBtn.Size = new Size(88, 57);
             TwoBtn.TabIndex = 8;
@@ -154,7 +154,7 @@
             // OneBtn
             // 
             OneBtn.Font = new Font("Segoe UI", 12F);
-            OneBtn.Location = new Point(12, 200);
+            OneBtn.Location = new Point(17, 207);
             OneBtn.Name = "OneBtn";
             OneBtn.Size = new Size(88, 57);
             OneBtn.TabIndex = 7;
@@ -165,7 +165,7 @@
             // EqualsBtn
             // 
             EqualsBtn.Font = new Font("Segoe UI", 12F);
-            EqualsBtn.Location = new Point(200, 265);
+            EqualsBtn.Location = new Point(205, 272);
             EqualsBtn.Name = "EqualsBtn";
             EqualsBtn.Size = new Size(88, 57);
             EqualsBtn.TabIndex = 12;
@@ -176,7 +176,7 @@
             // DotBtn
             // 
             DotBtn.Font = new Font("Segoe UI", 12F);
-            DotBtn.Location = new Point(106, 265);
+            DotBtn.Location = new Point(111, 272);
             DotBtn.Name = "DotBtn";
             DotBtn.Size = new Size(88, 57);
             DotBtn.TabIndex = 11;
@@ -187,7 +187,7 @@
             // ZeroBtn
             // 
             ZeroBtn.Font = new Font("Segoe UI", 12F);
-            ZeroBtn.Location = new Point(12, 265);
+            ZeroBtn.Location = new Point(17, 272);
             ZeroBtn.Name = "ZeroBtn";
             ZeroBtn.Size = new Size(88, 57);
             ZeroBtn.TabIndex = 10;

@@ -245,7 +245,7 @@ namespace Calculator
                     break;
             }
 
-                    SecondNumber = decimal.Parse(textBox.Text);
+            SecondNumber = decimal.Parse(textBox.Text);
             switch (operators)
             {
                 case "-":
